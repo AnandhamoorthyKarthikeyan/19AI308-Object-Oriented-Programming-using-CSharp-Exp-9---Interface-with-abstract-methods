@@ -32,8 +32,8 @@ Main method: creates Program object, initiates banking operations based on user 
 
 ## PROGRAM :
 
-### DEVELOPED BY:THRIKESWAR
-### REG NO :212222230162
+### DEVELOPED BY:ANANDHAMOORTHY.K
+### REG NO :212222100004
 
 ```
 using System;
